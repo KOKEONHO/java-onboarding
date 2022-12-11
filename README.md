@@ -36,6 +36,7 @@ BUILD SUCCESSFUL in 0s
 ## 🚀 기능 요구 사항
 아래의 7가지 기능 요구 사항을 모두 해결해야 한다.
 
+* [Application](./docs/APPLICATION.md)
 1. [문제 1](./docs/PROBLEM1.md)
 2. [문제 2](./docs/PROBLEM2.md)
 3. [문제 3](./docs/PROBLEM3.md)
